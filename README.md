@@ -1,4 +1,4 @@
-# my-wordpress-plugins
+# Wordpress Plugins
 
 ## Auto-tagging 
 
